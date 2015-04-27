@@ -1,4 +1,4 @@
- # Light dependent servo window
+# Light dependent servo window
 	
 	Copyright (C) 2015  Efstathios Kladis
 
@@ -16,7 +16,7 @@
           Version 2, June 1991
             
             
-   # Description     
+# Description     
       Auto mode for windows and eco lights. 
    Make your windows move according to sun's position. 
    The window will follow the opposite direction of the sun to control the light that goes into the house. 
